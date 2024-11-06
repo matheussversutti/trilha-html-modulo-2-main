@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
@@ -72,3 +73,7 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
 Bora pra cima!
+=======
+# trilha-html-modulo-2-main
+Criei um site para uma cliníca dermatológica usando HTML e uns adicionais usando CSS (meu conhecimento da tecnologia ainda está bem raso). A ideia principal do projeto é aplicar o que eu aprendi no módulo 2 de um curso de HTML que estou fazendo na Dio.me.   
+>>>>>>> 167919a4190f40207f7f36ac0ac86dd7bd9586da
