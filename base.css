@@ -1,0 +1,103 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: lightyellow;
+    padding: 10px 20px 0px;
+}
+.header {
+    
+    min-height: 150px;
+}
+.content {
+    background-color: rgb(175, 147, 147);
+    min-height: 300px;
+    padding: 20px;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+
+}
+.footer {
+    background-color: rgb(83, 62, 62); 
+    min-height: 150px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+table {
+    border: solid 1px gray;
+}
+
+table thead th {
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+table, th, td {
+    border: solid 1px black;
+}
+
+
+.fial{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.container-contato{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.item {
+   display: flex;
+   align-items: center;
+}
+
+.item img{ 
+    margin-right: 8px;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+textarea { 
+    resize: none;
+}
+
+input[type="text"], input[type="email"] {
+    width: 300px; 
+}
+
+textarea {
+    height: 100px;
+}
+
+iframe {
+    padding-top: 10px;
+}
